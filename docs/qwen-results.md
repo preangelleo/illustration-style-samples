@@ -40,7 +40,7 @@ STYLE: Japanese anime style with characteristic large, expressive eyes and detai
 
 | Comic Book | Pop Art | Cyberpunk Cartoon |
 |------------|---------|-------------------|
-| ![Comic Book](../output/pressure_test_300concurrent/qwen-image/Comic_Book_qwen-image.jpg) | ![Pop Art](../output/pressure_test_300concurrent/qwen-image/Pop_Art_qwen-image.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/qwen-image/Cyberpunk_Cartoon_qwen-image.jpg) |
+| ![Comic Book](../output/pressure_test_300concurrent/qwen-image/Comic_Book_qwen-image.jpg) | ![Pop Art](../output/pressure_test_300concurrent/qwen-image/Pop_Art_qwen-image.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/qwen-image/Cyberpunk_qwen-image.jpg) |
 | Dynamic superhero comic style | Bold pop art with vibrant colors | Futuristic cyberpunk with neon aesthetics |
 
 **Style Prompt for Comic Book:**
@@ -54,7 +54,7 @@ STYLE: American superhero comic book style with bold outlines, halftone dot patt
 
 | Fantasy Cartoon | Steampunk | Surreal Cartoon |
 |-----------------|-----------|-----------------|
-| ![Fantasy](../output/pressure_test_300concurrent/qwen-image/Fantasy_Cartoon_qwen-image.jpg) | ![Steampunk](../output/pressure_test_300concurrent/qwen-image/Steampunk_Cartoon_qwen-image.jpg) | ![Surreal](../output/pressure_test_300concurrent/qwen-image/Surreal_Cartoon_qwen-image.jpg) |
+| ![Fantasy](../output/pressure_test_300concurrent/qwen-image/Fantasy_qwen-image.jpg) | ![Steampunk](../output/pressure_test_300concurrent/qwen-image/Steampunk_qwen-image.jpg) | ![Surreal](../output/pressure_test_300concurrent/qwen-image/Surreal_qwen-image.jpg) |
 | Enchanting medieval fantasy adventure | Victorian steampunk with brass details | Dream-like surreal imagery |
 
 **Style Prompt for Steampunk Cartoon:**
@@ -66,14 +66,14 @@ STYLE: Victorian steampunk cartoon style with brass, copper, and bronze mechanic
 
 | Watercolor Cartoon | Pastel Goth |
 |--------------------|-------------|
-| ![Watercolor](../output/pressure_test_300concurrent/qwen-image/Watercolor_Cartoon_qwen-image.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/qwen-image/Pastel_Goth_qwen-image.jpg) |
+| ![Watercolor](../output/pressure_test_300concurrent/qwen-image/Watercolor_qwen-image.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/qwen-image/Pastel_Goth_qwen-image.jpg) |
 | Soft watercolor with natural paint bleeding | Gothic themes with delicate pastel colors |
 
 ### Row 4: Design & Illustration Styles
 
 | Flat Illustration | Minimalist | Noir Cartoon |
 |-------------------|------------|--------------|
-| ![Flat](../output/pressure_test_300concurrent/qwen-image/Flat_Illustration_qwen-image.jpg) | ![Minimalist](../output/pressure_test_300concurrent/qwen-image/Minimalist_Cartoon_qwen-image.jpg) | ![Noir](../output/pressure_test_300concurrent/qwen-image/Noir_Cartoon_qwen-image.jpg) |
+| ![Flat](../output/pressure_test_300concurrent/qwen-image/Flat_Illustration_qwen-image.jpg) | ![Minimalist](../output/pressure_test_300concurrent/qwen-image/Minimalist_qwen-image.jpg) | ![Noir](../output/pressure_test_300concurrent/qwen-image/Noir_qwen-image.jpg) |
 | Clean vector-style illustration | Elegant minimalist design | Atmospheric film noir aesthetic |
 
 **Style Prompt for Minimalist Cartoon:**
@@ -85,7 +85,7 @@ STYLE: Minimalist cartoon style with simple geometric shapes and clean lines. Li
 
 | Sketch Cartoon |
 |-----------------|
-| ![Sketch](../output/pressure_test_300concurrent/qwen-image/Sketch_Cartoon_qwen-image.jpg) |
+| ![Sketch](../output/pressure_test_300concurrent/qwen-image/Sketch_qwen-image.jpg) |
 | Natural hand-drawn pencil sketch style |
 
 ## 📊 Performance Metrics

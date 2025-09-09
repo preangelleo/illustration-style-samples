@@ -40,7 +40,7 @@ STYLE: High-quality 3D rendered cartoon style similar to Pixar/DreamWorks animat
 
 | Comic Book | Pop Art | Cyberpunk Cartoon |
 |------------|---------|-------------------|
-| ![Comic Book](../output/pressure_test_300concurrent/flux-dev/Comic_Book_flux-dev.jpg) | ![Pop Art](../output/pressure_test_300concurrent/flux-dev/Pop_Art_flux-dev.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/flux-dev/Cyberpunk_Cartoon_flux-dev.jpg) |
+| ![Comic Book](../output/pressure_test_300concurrent/flux-dev/Comic_Book_flux-dev.jpg) | ![Pop Art](../output/pressure_test_300concurrent/flux-dev/Pop_Art_flux-dev.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/flux-dev/Cyberpunk_flux-dev.jpg) |
 | American superhero comic style | Andy Warhol inspired bold graphics | Futuristic neon-lit tech noir |
 
 **Style Prompt for Comic Book:**
@@ -66,7 +66,7 @@ STYLE: Classic American comic book illustration style. Bold, thick black outline
 
 | Flat Illustration | Minimalist | Noir Cartoon |
 |-------------------|------------|--------------|
-| ![Flat](../output/pressure_test_300concurrent/flux-dev/Flat_Illustration_flux-dev.jpg) | ![Minimalist](../output/pressure_test_300concurrent/flux-dev/Minimalist_flux-dev.jpg) | ![Noir](../output/pressure_test_300concurrent/flux-dev/Noir_Cartoon_flux-dev.jpg) |
+| ![Flat](../output/pressure_test_300concurrent/flux-dev/Flat_Illustration_flux-dev.jpg) | ![Minimalist](../output/pressure_test_300concurrent/flux-dev/Minimalist_flux-dev.jpg) | ![Noir](../output/pressure_test_300concurrent/flux-dev/Noir_flux-dev.jpg) |
 | Clean geometric vector art | Simple shapes, limited palette | Film noir detective aesthetic |
 
 **Style Prompt for Minimalist Cartoon:**
