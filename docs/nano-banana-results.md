@@ -41,7 +41,7 @@ STYLE: High-quality 3D rendered cartoon style similar to Pixar/DreamWorks animat
 
 | Comic Book | Pop Art | Cyberpunk Cartoon |
 |------------|---------|-------------------|
-| ![Comic Book](../output/pressure_test_300concurrent/nano-banana/Comic_Book_nano-banana.jpg) | ![Pop Art](../output/pressure_test_300concurrent/nano-banana/Pop_Art_nano-banana.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/nano-banana/Cyberpunk_Cartoon_nano-banana.jpg) |
+| ![Comic Book](../output/pressure_test_300concurrent/nano-banana/Comic_Book_nano-banana.jpg) | ![Pop Art](../output/pressure_test_300concurrent/nano-banana/Pop_Art_nano-banana.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/nano-banana/Cyberpunk_nano-banana.jpg) |
 | Dynamic comic style with creative flair | Bold pop art with unique interpretation | Creative cyberpunk aesthetic |
 
 **Style Prompt for Pop Art:**
@@ -55,7 +55,7 @@ STYLE: Andy Warhol inspired pop art cartoon style with bold, vibrant colors and 
 
 | Fantasy Cartoon | Steampunk | Surreal Cartoon |
 |-----------------|-----------|-----------------|
-| ![Fantasy](../output/pressure_test_300concurrent/nano-banana/Fantasy_Cartoon_nano-banana.jpg) | ![Steampunk](../output/pressure_test_300concurrent/nano-banana/Steampunk_Cartoon_nano-banana.jpg) | ![Surreal](../output/pressure_test_300concurrent/nano-banana/Surreal_Cartoon_nano-banana.jpg) |
+| ![Fantasy](../output/pressure_test_300concurrent/nano-banana/Fantasy_nano-banana.jpg) | ![Steampunk](../output/pressure_test_300concurrent/nano-banana/Steampunk_nano-banana.jpg) | ![Surreal](../output/pressure_test_300concurrent/nano-banana/Surreal_nano-banana.jpg) |
 | Magical fantasy with creative interpretation | Steampunk with unique artistic vision | Highly creative surreal imagery |
 
 **Style Prompt for Surreal Cartoon:**
@@ -67,14 +67,14 @@ STYLE: Salvador Dalí inspired surreal cartoon style with dream-like, impossible
 
 | Watercolor Cartoon | Pastel Goth |
 |--------------------|-------------|
-| ![Watercolor](../output/pressure_test_300concurrent/nano-banana/Watercolor_Cartoon_nano-banana.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/nano-banana/Pastel_Goth_nano-banana.jpg) |
+| ![Watercolor](../output/pressure_test_300concurrent/nano-banana/Watercolor_nano-banana.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/nano-banana/Pastel_Goth_nano-banana.jpg) |
 | Artistic watercolor with unique technique | Gothic themes with creative pastel treatment |
 
 ### Row 4: Design & Illustration Styles
 
 | Flat Illustration | Minimalist | Noir Cartoon |
 |-------------------|------------|--------------|
-| ![Flat](../output/pressure_test_300concurrent/nano-banana/Flat_Illustration_nano-banana.jpg) | ![Minimalist](../output/pressure_test_300concurrent/nano-banana/Minimalist_Cartoon_nano-banana.jpg) | ![Noir](../output/pressure_test_300concurrent/nano-banana/Noir_Cartoon_nano-banana.jpg) |
+| ![Flat](../output/pressure_test_300concurrent/nano-banana/Flat_Illustration_nano-banana.jpg) | ![Minimalist](../output/pressure_test_300concurrent/nano-banana/Minimalist_nano-banana.jpg) | ![Noir](../output/pressure_test_300concurrent/nano-banana/Noir_nano-banana.jpg) |
 | Clean flat design with creative elements | Elegant minimalist interpretation | Atmospheric noir with unique style |
 
 **Style Prompt for Flat Illustration:**
@@ -86,7 +86,7 @@ STYLE: Modern flat illustration design with clean geometric shapes and bold, sol
 
 | Sketch Cartoon |
 |-----------------|
-| ![Sketch](../output/pressure_test_300concurrent/nano-banana/Sketch_Cartoon_nano-banana.jpg) |
+| ![Sketch](../output/pressure_test_300concurrent/nano-banana/Sketch_nano-banana.jpg) |
 | Creative hand-drawn sketch interpretation |
 
 ## 📊 Performance Metrics

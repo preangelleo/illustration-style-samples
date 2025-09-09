@@ -40,7 +40,7 @@ STYLE: High-quality 3D rendered cartoon style similar to Pixar/DreamWorks animat
 
 | Comic Book | Pop Art | Cyberpunk Cartoon |
 |------------|---------|-------------------|
-| ![Comic Book](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Comic_Book_flux-1.1-pro-ultra.jpg) | ![Pop Art](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Pop_Art_flux-1.1-pro-ultra.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Cyberpunk_Cartoon_flux-1.1-pro-ultra.jpg) |
+| ![Comic Book](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Comic_Book_flux-1.1-pro-ultra.jpg) | ![Pop Art](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Pop_Art_flux-1.1-pro-ultra.jpg) | ![Cyberpunk](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Cyberpunk_flux-1.1-pro-ultra.jpg) |
 | Premium comic book art with perfect halftone patterns | High-contrast pop art with vibrant colors | Detailed cyberpunk with neon perfection |
 
 **Style Prompt for Cyberpunk Cartoon:**
@@ -54,19 +54,19 @@ STYLE: Futuristic cyberpunk cartoon aesthetic with neon-lit technology noir atmo
 
 | Fantasy Cartoon | Steampunk | Surreal Cartoon |
 |-----------------|-----------|-----------------|
-| ![Fantasy](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Fantasy_Cartoon_flux-1.1-pro-ultra.jpg) | ![Steampunk](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Steampunk_Cartoon_flux-1.1-pro-ultra.jpg) | ![Surreal](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Surreal_Cartoon_flux-1.1-pro-ultra.jpg) |
+| ![Fantasy](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Fantasy_flux-1.1-pro-ultra.jpg) | ![Steampunk](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Steampunk_flux-1.1-pro-ultra.jpg) | ![Surreal](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Surreal_flux-1.1-pro-ultra.jpg) |
 | Magical fantasy with intricate medieval details | Victorian steampunk with brass perfection | Dream-like surreal art with impossible geometry |
 
 | Watercolor Cartoon | Pastel Goth |
 |--------------------|-------------|
-| ![Watercolor](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Watercolor_Cartoon_flux-1.1-pro-ultra.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Pastel_Goth_flux-1.1-pro-ultra.jpg) |
+| ![Watercolor](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Watercolor_flux-1.1-pro-ultra.jpg) | ![Pastel Goth](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Pastel_Goth_flux-1.1-pro-ultra.jpg) |
 | Traditional watercolor with organic paint flow | Gothic themes with soft pastel perfection |
 
 ### Row 4: Design & Illustration Styles
 
 | Flat Illustration | Minimalist | Noir Cartoon |
 |-------------------|------------|--------------|
-| ![Flat](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Flat_Illustration_flux-1.1-pro-ultra.jpg) | ![Minimalist](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Minimalist_Cartoon_flux-1.1-pro-ultra.jpg) | ![Noir](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Noir_Cartoon_flux-1.1-pro-ultra.jpg) |
+| ![Flat](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Flat_Illustration_flux-1.1-pro-ultra.jpg) | ![Minimalist](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Minimalist_flux-1.1-pro-ultra.jpg) | ![Noir](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Noir_flux-1.1-pro-ultra.jpg) |
 | Perfect vector-style flat design | Ultra-clean minimalist aesthetic | Atmospheric noir with perfect shadows |
 
 **Style Prompt for Noir Cartoon:**
@@ -78,7 +78,7 @@ STYLE: Film noir detective story aesthetic with dramatic black and white cartoon
 
 | Sketch Cartoon |
 |-----------------|
-| ![Sketch](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Sketch_Cartoon_flux-1.1-pro-ultra.jpg) |
+| ![Sketch](../output/pressure_test_300concurrent/flux-1.1-pro-ultra/Sketch_flux-1.1-pro-ultra.jpg) |
 | Hand-drawn sketch with premium detail |
 
 ## 📊 Performance Metrics
