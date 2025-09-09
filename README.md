@@ -41,6 +41,20 @@ We tested **4 state-of-the-art AI models** across **17 distinct illustration sty
 16. **Surreal Cartoon** - Salvador Dalí inspired dream-like imagery
 17. **Watercolor Cartoon** - Traditional paint with bleeding colors
 
+## 📖 Complete Style Descriptions
+
+**Want the full copyable prompts for each style?** 
+
+👉 **[View Complete Style Guide](./docs/style-descriptions.md)** - Get detailed, copyable style descriptions for all 17 illustration styles
+
+Each style includes:
+- ✅ **Complete copyable prompt** - Ready to use with any AI model
+- 🎨 **Detailed style characteristics** - Understand exactly what makes each style unique  
+- 💡 **Usage tips** - Get the best results from your chosen style
+- 🔧 **Customization notes** - Adapt the styles for your specific needs
+
+Perfect for artists, developers, and creators who want to replicate these styles with their own content!
+
 ## 📊 Sample Results
 
 Here are representative samples from each model. Click on the model name to view all 17 style variations:
@@ -187,6 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♀️ Support
 
+- **Style Guide:** [Complete Style Descriptions](./docs/style-descriptions.md) - Copyable prompts for all 17 styles
 - **Documentation:** Check individual model result pages
 - **Issues:** [GitHub Issues](https://github.com/preangelleo/illustration-style-samples/issues)
 - **Library Support:** [replicate-batch-process Issues](https://github.com/preangelleo/replicate-batch-process/issues)
