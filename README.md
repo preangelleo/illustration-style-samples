@@ -71,7 +71,7 @@ Here are representative samples from each model. Click on the model name to view
 
 | Noir | Minimalist | Sketch |
 |------|------------|--------|
-| ![Nano Noir](./output/pressure_test_300concurrent/nano-banana/Noir_nano-banana.jpg) | ![Nano Minimalist](./output/pressure_test_300concurrent/nano-banana/Minimalist_nano-banana.jpg) | ![Nano Sketch](./output/pressure_test_300concurrent/nano-banana/Sketch_nano-banana.jpg) |
+| ![Nano Noir](./output/pressure_test_300concurrent/nano-banana/Noir_nano-banana.jpg) | ![Nano Minimalist](./output/pressure_test_300concurrent/nano-banana/Minimalist_nano-banana.jpg) | ![Nano Sketch](./output/pressure_test_300concurrent/nano-banana/Sketch_nano-banana.jpg) |  
 
 ## 🛠️ Run Your Own Tests
 

@@ -27,12 +27,11 @@ share/python-wheels/
 *.egg
 PIPFILE.lock
 
-# Generated images (users will create their own)
-output/
-*.jpg
-*.jpeg
-*.png
-*.webp
+# Generated images in user's custom directories (but keep sample images)
+# *.jpg
+# *.jpeg
+# *.png
+# *.webp
 
 # System files
 .DS_Store
